@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Shahadat Khokhar
 
-Currently in my first year of college. A computer enthusiast and a curious geek. I am still figuring my interest.
-I am skilled in: C++, javascript, react-native.
+Currently in my first year of college. A computer enthusiast and a curious geek. 
+I'm still figuring my interest. my current skills are: C++, javascript, react-native.
 
 
 💬 Ask me about anything, I would love to satisfy your queries
