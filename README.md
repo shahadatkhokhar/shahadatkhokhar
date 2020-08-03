@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Shahadat Khokhar
 
-Currently in my first year of college.A computer enthusiast and a curious geek. I am still figuring my interest.
+Currently in my first year of college. A computer enthusiast and a curious geek. I am still figuring my interest.
 I am skilled in: C++, javascript, react-native,
 
 📫 How to reach me: khokharshahadat@gmail.com
