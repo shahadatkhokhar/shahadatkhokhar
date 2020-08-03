@@ -3,8 +3,10 @@
 Currently in my first year of college. A computer enthusiast and a curious geek. I am still figuring my interest.
 I am skilled in: C++, javascript, react-native,
 
-📫 How to reach me: khokharshahadat@gmail.com
+
 💬 Ask me about anything, I would love to satisfy your queries
+
+📫 How to reach me: khokharshahadat@gmail.com
 <!--
 **shahadatkhokhar/shahadatkhokhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
