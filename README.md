@@ -1,8 +1,11 @@
-### Hi there 👋 I am Shahadat Khokhar
+## Hi there 👋 I am Shahadat Khokhar
+
+#### "Interest leads to Innovation"
 
 Currently in my first year of college. A computer enthusiast and a curious geek. 
-I'm still figuring my interest. my current skills are: C++, javascript, react-native.
+I'm still figuring my specialization. my current skills are: C++, javascript, react-native, firebase.
 
+⚡ Fun fact: I try to learn everything I see.
 
 💬 Ask me about anything, I would love to satisfy your queries
 
@@ -20,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
