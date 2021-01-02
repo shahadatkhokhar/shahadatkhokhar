@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Shahadat Khokhar
 ### I'm a Developer, Blogger and An Artist!
 
-Currently in my first year of college. A computer enthusiast and a curious geek. 
+Currently a Sophomore. A computer enthusiast and a curious geek. 
 I'm still figuring my specialization. my current skills are: C++, javascript, react-native, firebase.
 
 ⚡ Fun fact: I try to learn everything I see.
