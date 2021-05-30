@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Shahadat Khokhar
 ### I'm a Developer, Blogger and An Artist!
 
-Currently a Sophomore. A computer enthusiast and a curious geek. 
-I'm still figuring my specialization. my current skills are: C++, javascript, react-native, firebase.
+Pursuing my degree in B. Tech in Computer Science. A computer enthusiast and a curious geek. 
+I'm still figuring my specialization. my current skills are: C++, Javascript, React-Native, firebase, Flutter, Android Native.
 
 ⚡ Fun fact: I try to learn everything I see.
 
@@ -37,5 +37,5 @@ I'm still figuring my specialization. my current skills are: C++, javascript, re
 
 [blog]: revisitedlife.blogspot.com/
 [twitter]: https://twitter.com/KhokharShahadat
-[instagram]: https://www.instagram.com/shahadat_khokhar/
-[linkedin]:https://www.linkedin.com/in/md-shahadat-khokhar-97a721199/
+[instagram]: https://www.instagram.com/iamshahadatkhokhar/
+[linkedin]:https://www.linkedin.com/in/md-shahadat-khokhar/
